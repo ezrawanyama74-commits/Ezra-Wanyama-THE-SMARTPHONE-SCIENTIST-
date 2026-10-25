@@ -1,0 +1,34 @@
+{
+  "landing": {
+    "name": "Ezra Wanyama Waswa",
+    "tagline": "\"Turn your phone into a super computer\"",
+    "aboutParagraphs": [
+      "Ezra Wanyama Waswa, popularly known as \"THE SMARTPHONE SCIENTIST,\" is a Kenyan innovator, tech developer, and computer science student.",
+      "Operating without a traditional laptop, Ezra converts standard Android hardware into a high-powered technical workstation using Termux, Pydroid, and GitHub to engineer full-stack web platforms, databases, and AI systems."
+    ],
+    "specializations": [
+      "Web Development (PWA)",
+      "Artificial Intelligence",
+      "Embedded Robotics & IoT",
+      "Termux Mobile Engineering",
+      "Database Architecture",
+      "Community Empowerment"
+    ],
+    "philosophy": "Continuous learning and turning your phone into a super computer."
+  },
+  "socials": {
+    "github": "https://github.com/ezrawanyama74",
+    "whatsapp": "https://wa.me/254",
+    "email": "contact@thesmartphonescientist.com"
+  },
+  "projects": [
+    {
+      "name": "Navakholo TerraHub Initiative",
+      "icon": "fas fa-network-wired",
+      "devicesAndApps": ["Android Smartphone", "Termux", "Node.js", "Git"],
+      "why": "To drive grassroots economic growth, community skilling, and digital sovereignty in Kakamega County.",
+      "solved": "Provides a decentralized digital ecosystem and community blueprints bridging the digital divide.",
+      "link": "https://blueprints4nti.onrender.com/"
+    }
+  ]
+}
